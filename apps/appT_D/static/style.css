@@ -1,0 +1,7 @@
+h1,h2{
+        text-align: center;
+        outline: 2px solid;
+        width: 360px;
+        margin: 0px auto;
+        padding: 20px;
+}
